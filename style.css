@@ -1,0 +1,48 @@
+
+    h1{
+        color:red;
+    }
+    
+    body{
+        background-color: rgba(150,00,150, 1);
+    }
+
+    .header
+    {
+        color: #898909;
+        background-color: #000000;
+        display: flex;
+        justify-content: space-between ;
+
+    
+    }
+
+    .menu
+    {
+        color:#809025;
+        justify-content: space-evenly;
+    }
+
+    .grid
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        
+    }
+
+    .item
+    {
+        padding: 5px;
+    }
+
+    .footer 
+    {
+        display: flex; 
+        justify-content: flex-end;
+    }
+
+    p,h2
+    {
+        text-align: center;
+    }
